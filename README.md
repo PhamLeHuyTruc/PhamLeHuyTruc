@@ -1,4 +1,5 @@
 # Hi, I'm Pham Le Huy Truc 
+Autonomous Systems • Robotics & Control • Embedded Systems
 
 Final-year Control and Automation Engineering student specializing in robotics and autonomous systems, with a strong focus on real-time perception and control.
 
