@@ -1,17 +1,13 @@
 # Hi, I'm Pham Le Huy Truc 
 
-Autonomous Systems • Robotics & Control • Embedded Systems
+Final-year Control and Automation Engineering student specializing in robotics and autonomous systems, with a strong focus on real-time perception and control.
 
-I am an engineering student specializing in Control and Automation, transitioning into robotics with a strong focus on autonomous systems, computer vision, and real-time control.
+Experienced in building end-to-end robotic systems integrating computer vision (YOLO, OpenCV), sensor fusion, and motion control on embedded platforms such as NVIDIA Jetson and STM32.
 
-I build end-to-end systems combining perception (YOLO, OpenCV), sensor fusion, and motion control on hardware platforms such as NVIDIA Jetson and microcontrollers like Arduino,STM32.
-
-I enjoy developing practical, deployable solutions that integrate AI models, multi-sensor data, and embedded control.
+Interested in developing intelligent robotic systems for automation and smart manufacturing.
 
 ---
 ## What I Work On
-
-- Autonomous driving systems
 - AI perception on edge devices (YOLO, CNN)
 - Multi-sensor fusion: Encoder, IMU, camera, lidar
 - Real-time control and embedded development
