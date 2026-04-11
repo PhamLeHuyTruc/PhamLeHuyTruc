@@ -28,8 +28,8 @@ Interested in developing intelligent robotic systems for automation and smart ma
 - Ros2, Ubuntu
 
 ### AI / Perception
-- YOLO, DepthAnythingV2, SegFormer
-- PyTorch, TensorRT
+- YOLO, PyTorch
+- TensorRT, OpenVINO
 
 ---
 ## Feature Work
